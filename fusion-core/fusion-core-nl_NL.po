@@ -1801,27 +1801,27 @@ msgstr ""
 
 #: templates/portfolio-archive-layout.php:365
 msgid " View Project"
-msgstr ""
+msgstr "Bekijk project"
 
 #: templates/single-avada_portfolio.php:32
 #: templates/single-avada_portfolio.php:40
 #: templates/single-avada_portfolio.php:55
 msgid "Previous"
-msgstr ""
+msgstr "Vorige"
 
 #: templates/single-avada_portfolio.php:62
 #: templates/single-avada_portfolio.php:70
 #: templates/single-avada_portfolio.php:85
 msgid "Next"
-msgstr ""
+msgstr "Volgende"
 
 #: templates/single-avada_portfolio.php:160
 msgid "Project Description"
-msgstr ""
+msgstr "Projectomschrijving"
 
 #: templates/single-avada_portfolio.php:174
 msgid "Project Details"
-msgstr ""
+msgstr "Projectdetails"
 
 #: templates/single-avada_portfolio.php:182
 msgid "Skills Needed:"
